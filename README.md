@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm a musician**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://acortar.link/4ZOviV</h3>
 <p align="left">
 </p>
 
