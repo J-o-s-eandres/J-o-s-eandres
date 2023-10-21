@@ -20,7 +20,7 @@
 - 🏋️‍♂️ I love **challenging myself to solve complex problems.**
 
 - 📚 I enjoy **learning and staying up-to-date with the latest technologies.**
-- 📖 I also enjoy reading and expanding my knowledge.
+- 📖 I also enjoy **reading and expanding my knowledge.**
 
 <!-- <h3 align="left">[Connect with me:] (https://acortar.link/4ZOviV "Linkedin")</h3>
  -->
