@@ -3,17 +3,24 @@
 
 - 🔭 I’m currently working on **maritime process improvements**
 
-- 🌱 I’m currently learning **Django, Laravel , TDD and SOLID**
+- 🌱 I’m currently learning **Django, Laravel, TDD, and SOLID**
 
 - 👯 I’m looking to collaborate on **Interesting projects as backend**
-
-- 👨‍💻 All of my projects are available at [https://github.com/J-o-s-eandres?tab=projects](https://github.com/J-o-s-eandres?tab=projects)
 
 - 💬 Ask me about **what you want, if I have the possibility I will help you**
 
 - 📫 How to reach me **joseandresmontesino@gmail.com**
 
 - ⚡ Fun fact **I'm a musician**
+
+### 🚀 My Passions
+
+- 💻 I'm passionate about **programming and software development.**
+
+- 🏋️‍♂️ I love **challenging myself to solve complex problems.**
+
+- 📚 I enjoy **learning and staying up-to-date with the latest technologies.**
+- 📖 I also enjoy reading and expanding my knowledge.
 
 <!-- <h3 align="left">[Connect with me:] (https://acortar.link/4ZOviV "Linkedin")</h3>
  -->
