@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **maritime process improvements**
 
-- 🌱 I’m currently learning **Django, Laravel, TDD, QA and SOLID**
+- 🌱 I’m currently learning **Django, Flask and Laravel**
 
 - 👯 I’m looking to collaborate on **Interesting projects as backend**
 
