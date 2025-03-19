@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseandres Montesino</h1>
-<h3 align="center">A passionate developer from Venezuela living in Peru</h3>
+<h3 align="center">A passionate developer from Venezuela living in Mexico</h3>
 
 - 🔭 I’m currently working on **maritime process improvements**
 
