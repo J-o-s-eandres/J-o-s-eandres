@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy José Andrés Montesino</h1>
+<h1 align="center">👋 ¡Hola! Soy Joseandres Montesino</h1>
 <h3 align="center">🚀 Desarrollador Backend apasionado | 🇻🇪 Venezolano viviendo en México 🇲🇽</h3>
 
 <p align="center">
@@ -67,22 +67,6 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-o-s-eandres&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-o-s-eandres&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-o-s-eandres&theme=radical" alt="GitHub Streak" height="180" />
-</p>
-
-## 🌟 Proyectos Destacados
-
-🔨 *Próximamente proyectos destacados...*
-
----
 
 <p align="center">
   <i>✨ "El código es poesía para las máquinas" ✨</i>
