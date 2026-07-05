@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Joseandres Montesino</h1>
-<h3 align="center">🚀 Desarrollador Backend apasionado | 🇻🇪 Venezolano viviendo en México 🇲🇽</h3>
+<h3 align="center">🚀 Ingeniero Backend | QA Automation Engineer | IA Enthusiast 🇻🇪🇲🇽</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=j-o-s-eandres&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,28 +11,33 @@
 ---
 
 ## 🎯 Sobre Mí
+Ingeniero enfocado en el diseño de **sistemas escalables y arquitecturas de alta disponibilidad**. Combino el desarrollo backend con una mentalidad orientada a **QA Automation**, asegurando calidad desde el desarrollo hasta la producción. Apasionado por la integración de agentes de IA y la optimización de procesos mediante CI/CD.
 
-💼 **Actualmente trabajo en:** Mejoras de procesos marítimos mediante soluciones tecnológicas  
-🌱 **Aprendiendo actualmente:** Django, Flask y Laravel  
-🤝 **Buscando colaborar en:** Proyectos interesantes como desarrollador backend  
-💬 **Pregúntame sobre:** Desarrollo backend, APIs, bases de datos o cualquier duda técnica  
-📫 **Cómo contactarme:** [joseandresmontesino@gmail.com](mailto:joseandresmontesino@gmail.com)  
+💼 **Enfocado en:** Automatización E2E, Testing de APIs, Arquitecturas Multitenant, Agentes de IA y Backend robusto.
+
 🎵 **Dato curioso:** ¡Soy músico! La creatividad musical y la programación tienen mucho en común 🎸
 
-## 🔥 Mis Pasiones
+---
 
-- 💻 **Programación y desarrollo de software** - Transformar ideas en soluciones funcionales
-- 🧩 **Resolver problemas complejos** - Disfruto los desafíos técnicos
-- 📚 **Aprendizaje continuo** - Siempre explorando nuevas tecnologías
-- 🎶 **Música** - Otra forma creativa de expresarme
+## 🚀 Proyectos Destacados
+*   **Agentes de IA para Ventas:** Automatización de CRM (Odoo) mediante agentes autónomos que gestionan el 80% de la operación de ventas.
+*   **Sistema EDI (Misión Crítica):** Middleware para integración logística con navieras globales (MSC), asegurando integridad de datos EDIFACT y XML.
+*   **Framework de QA:** Migración y automatización de flujos críticos (E2E) con Playwright, reduciendo tiempos de regresión en un 30%.
 
-## 📞 Conéctate Conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://acortar.link/4ZOviV)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseandresmontesino@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j-o-s-eandres)
+---
 
 ## 🛠️ Tecnologías y Herramientas
+
+### 🧪 QA Automation & Testing
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D34E4?style=for-the-badge&logo=k6&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🤖 IA & Automatización
+![n8n](https://img.shields.io/badge/n8n-FF5722?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🖥️ Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,10 +61,10 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🛠️ Otras Herramientas
+### 🛠️ Herramientas DevOps & Otras
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -67,11 +72,12 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+---
+
+## 📞 Conéctate Conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://acortar.link/4ZOviV)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseandresmontesino@gmail.com)
 
 <p align="center">
-  <i>✨ "El código es poesía para las máquinas" ✨</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+  <i>✨ "El código es poesía para las máquinas y la música es el alma de la lógica" ✨</i>
 </p>
